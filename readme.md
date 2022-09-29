@@ -1,27 +1,7 @@
-# The OLLO Network
+#OLLO-TESTNET
 
-## Prerequisites
-
-- Ensure you have Make and Go (version 1.18) installed
-
-## Installation
-
-To build the node, run the command:
-
-```bash
-make build
-```
-
-To install the node on your local machine, run the command:
-
-```bash
-make install
-```
-
-For more information on setting up a node and/or a validator for the OLLO testnet, please visit the [OLLO docs on setting up a validator](https://docs.ollo.zone/validators/running_a_node)
-
-## Links
-- [OLLO Station Home](https://ollostation.zone)
-- [OLLO Testnet](https://testnet.ollo.zone)
-- [OLLO Documentation](https://docs.ollo.zone)
-- [Station8 Validators](https://station8.zone)
+#skyrocket_node
+#name: olloskyrocket
+#Account Address: ollo1x8v37pq0amwgmskwz98h2g3p2pgux3k8jjlxe2
+#Validator Address: ollovaloper1x8v37pq0amwgmskwz98h2g3p2pgux3k8s9nw2q 
+#url: http://explorer.stavr.tech/ollo/account/ollo1x8v37pq0amwgmskwz98h2g3p2pgux3k8jjlxe2
